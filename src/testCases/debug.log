@@ -1,0 +1,16 @@
+[0822/133518.996:ERROR:prune_crash_reports.cc(35)] PruneCrashReportDatabase: Failed to get pending reports
+[0822/134008.388:ERROR:prune_crash_reports.cc(35)] PruneCrashReportDatabase: Failed to get pending reports
+[0822/134435.085:ERROR:process_reader_win.cc(127)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0822/134435.088:ERROR:exception_snapshot_win.cc(99)] thread ID 14372 not found in process
+[0822/134435.094:ERROR:file_io_win.cc(161)] CreateFile C:\Users\Salim\AppData\Local\Temp\scoped_dir18024_2022072177\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0822/134435.094:ERROR:file_io_win.cc(161)] CreateFile C:\Users\Salim\AppData\Local\Temp\scoped_dir18024_2022072177\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0822/134435.094:ERROR:file_io_win.cc(161)] CreateFile C:\Users\Salim\AppData\Local\Temp\scoped_dir18024_2022072177\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0822/134435.095:ERROR:file_io_win.cc(170)] CreateFile C:\Users\Salim\AppData\Local\Temp\scoped_dir18024_2022072177\Crashpad\reports\9e35b207-9716-4c56-83e1-f041260f0657.dmp: The system cannot find the path specified. (0x3)
+[0822/134435.095:ERROR:crash_report_exception_handler.cc(120)] PrepareNewCrashReport failed
+[0822/134435.121:ERROR:process_reader_win.cc(127)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0822/134435.121:ERROR:exception_snapshot_win.cc(99)] thread ID 12132 not found in process
+[0822/134435.126:ERROR:file_io_win.cc(161)] CreateFile C:\Users\Salim\AppData\Local\Temp\scoped_dir9648_1855811731\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0822/134435.126:ERROR:file_io_win.cc(161)] CreateFile C:\Users\Salim\AppData\Local\Temp\scoped_dir9648_1855811731\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0822/134435.126:ERROR:file_io_win.cc(161)] CreateFile C:\Users\Salim\AppData\Local\Temp\scoped_dir9648_1855811731\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0822/134435.127:ERROR:file_io_win.cc(170)] CreateFile C:\Users\Salim\AppData\Local\Temp\scoped_dir9648_1855811731\Crashpad\reports\e0dd5b78-8059-4a61-9ef3-2fcbaa26688d.dmp: The system cannot find the path specified. (0x3)
+[0822/134435.127:ERROR:crash_report_exception_handler.cc(120)] PrepareNewCrashReport failed
